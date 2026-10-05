@@ -403,7 +403,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/daniel3303/stock-market-mcp-server.git",
-        "sha": "be6450a93588066df2b9717ec15a3c6fef58c1a5"
+        "sha": "cfafcd475ed8b6020478a7df15c04b2ac8a249b0"
       },
       "homepage": "https://equibles.com",
       "keywords": ["equibles", "equibles mcp"],
