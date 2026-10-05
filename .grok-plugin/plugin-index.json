@@ -235,6 +235,18 @@
         ]
       }
     },
+    "equibles": {
+      "sha": "be6450a93588066df2b9717ec15a3c6fef58c1a5",
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "equibles",
+            "description": "http"
+          }
+        ]
+      }
+    },
     "exa": {
       "sha": "879fae0c814765c43f39ea8f56aae1d44e9d9bc8",
       "version": "1.1.0",

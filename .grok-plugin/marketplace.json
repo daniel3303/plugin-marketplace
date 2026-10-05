@@ -395,6 +395,19 @@
       "homepage": "https://github.com/Unity-Technologies/unity-agent-plugin",
       "keywords": ["unity", "unity engine", "unity editor", "unity 6", "unity cli", "unity plugin", "unity game development", "ui toolkit", "shader graph", "unity iap", "levelplay"],
       "domains": ["unity.com", "unity3d.com", "docs.unity3d.com", "docs.unity.com", "discussions.unity.com", "assetstore.unity.com"]
+    },
+    {
+      "name": "equibles",
+      "description": "Financial research with SEC filings, company financials, institutional holdings, earnings calls, prices, options, and macroeconomic data.",
+      "category": "finance",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/daniel3303/stock-market-mcp-server.git",
+        "sha": "be6450a93588066df2b9717ec15a3c6fef58c1a5"
+      },
+      "homepage": "https://equibles.com",
+      "keywords": ["equibles", "equibles mcp"],
+      "domains": ["equibles.com", "mcp.equibles.com"]
     }
   ]
 }
